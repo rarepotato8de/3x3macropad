@@ -8,7 +8,7 @@ This Macropad can be configurated to your needs and runs with QMK which allows y
 
 ![Alt text](resources/title.png)
 
-It features not only a stealhly look, but also other awesome things:
+It not only has a stealthy look, but also features other awesome things:
 
 * Mechanical Switches
 * Hotswap
