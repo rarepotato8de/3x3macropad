@@ -11,6 +11,7 @@ This Macropad can be configurated to your needs and runs with QMK which allows y
 It not only has a stealthy look, but also features other awesome things:
 
 * Mechanical Switches
+* Encoder
 * Hotswap
 * USB Type C
 * **OLED Display**
@@ -25,45 +26,28 @@ If you are interested in getting one yourself, leave me a message on Discord: Ra
 
 ## Highlights
 
-* 6 Mechanical Switches (depending on your layout)
-* **Hot-Swap** Sockets
+* 6 Mechanical Switches
+* Encoder (Knob)
+* Hotswap Sockets
 * **OLED Screen**
 * USB-C Connector
 * Works with all major OSs, no driver needed.
 
 ## Showcase
 
-By **`automating commonly used actions with duckyPad`**, you can streamline and speed up your everyday routine. Here are a few examples:
+Here are a few pictures of the macropad:
 
 ### ... and more!
 
 Those are just some examples! You can basically do whatever you want!
 
-## Getting started
-
-Please see [the instruction manual](./getting_started.md) on how to use your duckyPad.
-
-## Table of Contents
+## Other Informations
 
 [Main page](README.md)
 
-[Getting Started Guide](getting_started.md)
+[Build Guide](build_guide.md)
 
-[Kit Assembly Guide](kit_assembly_guide.md)
-
-[Using duckyScript](duckyscript_info.md)
-
-[Common issues / Troubleshooting](troubleshooting.md)
-
-[Firmware Updates and Version History](firmware_updates_and_version_history.md)
-
-[Make Your Own Keymap](./keymap_instructions.md)
-
-[Manual Setup](./manual_setup.md)
-
-[Build a duckyPad Yourself](build_it_yourself.md)
-
-[Kickstarter Backer Acknowledgments](kickstarter_backers.md)
+[QMK Guide](qmk.md)
 
 ## Questions?
 
