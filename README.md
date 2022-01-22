@@ -8,13 +8,16 @@ This Macropad can be configurated to your needs and runs with QMK which allows y
 
 ![Alt text](resources/title.png)
 
-It not only has a stealthy look, but also features other awesome things:
+It not only has a stealthy look, but also features other awesome things.
 
-* Mechanical Switches
-* Encoder
-* Hotswap
-* USB Type C
-* **OLED Display**
+## Highlights
+
+* 6 Mechanical Switches
+* Encoder (Knob)
+* Hotswap Sockets
+* **OLED Screen**
+* USB-C Connector
+* Works with all major OSs, no driver needed.
 
 The coolest part of the macropad is the OLED Display on which you can display images, text and small animations (See below)
 
@@ -39,15 +42,6 @@ If you are interested in getting one yourself, leave me a message on Discord: Ra
 * Mechanical MX Switches (6x)
 * Keycaps (6x)
 * Soldering Service
-
-## Highlights
-
-* 6 Mechanical Switches
-* Encoder (Knob)
-* Hotswap Sockets
-* **OLED Screen**
-* USB-C Connector
-* Works with all major OSs, no driver needed.
 
 ## Showcase
 
