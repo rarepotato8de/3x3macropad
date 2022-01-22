@@ -6,7 +6,7 @@
 
 This Macropad can be configurated to your favorite Layout and runs with QMK which allows you to do anything you want and display cool things on the OLED.
 
-![Alt text](resources/pics/title.png)
+![Alt text](resources/title.png)
 
 It features not only a stealhly look, but also other awesome things:
 
