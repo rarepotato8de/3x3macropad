@@ -17,6 +17,7 @@ It not only has a stealthy look, but also features other awesome things.
 * Hotswap Sockets
 * **OLED Screen**
 * USB-C Connector
+* Runs with QMK - free programmable.
 * Works with all major OSs, no driver needed.
 
 The coolest part of the macropad is the OLED Display on which you can display images, text and small animations (See below)
