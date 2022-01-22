@@ -1,6 +1,6 @@
 # 3x3Macropad: Affordable & Cool!
 
-[Showcase](#showcase) | [Highlights](#highlights) | [Table of Contents](#table-of-contents)
+[Showcase](#showcase) | [Highlights](#highlights) | [More Infos](#more-infos)
 
 ----
 
@@ -41,7 +41,7 @@ Here are a few pictures of the macropad:
 
 Those are just some examples! You can basically do whatever you want!
 
-## Other Informations
+## More Infos
 
 [Main page](README.md)
 
