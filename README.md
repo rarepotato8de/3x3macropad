@@ -24,6 +24,22 @@ The coolest part of the macropad is the OLED Display on which you can display im
 
 If you are interested in getting one yourself, leave me a message on Discord: RarePotato8DE#4824 😉
 
+## What's included in the Kit
+
+* 6x Hotswap Sockets
+* 1x Arduino Pro Micro
+* 1x EC11 Encoder (15mm)
+* 1x 0.91" OLED Display
+* Bottom plate, PCB, Switch plate (all FR4 Material)
+* 4x 15mm Standoffs
+* 8x 6mm Screws
+
+## Not included
+
+* Mechanical MX Switches (6x)
+* Keycaps (6x)
+* Soldering Service
+
 ## Highlights
 
 * 6 Mechanical Switches
