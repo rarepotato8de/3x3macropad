@@ -37,6 +37,10 @@ If you are interested in getting one yourself, leave me a message on Discord: Ra
 
 Here are a few pictures of the macropad:
 
+![Alt text](resources/black2.png)
+
+![Alt text](resources/black3.png)
+
 ![Alt text](resources/pad1.png)
 
 ![Alt text](resources/pad3.png)
