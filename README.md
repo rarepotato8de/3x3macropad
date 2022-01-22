@@ -1,6 +1,6 @@
 # 3x3Macropad: Affordable & Cool!
 
-[Showcase](#showcase) | [Highlights](#highlights) | [More Infos](#more-infos)
+[Showcase](#showcase) | [Highlight Features](#highlights) | [More Infos](#more-infos) | [How this Project started](#how-this-project-started)
 
 ----
 
@@ -52,6 +52,22 @@ Here are a few pictures of the macropad:
 ### ... and more!
 
 Those are just some examples! You can basically do whatever you want!
+
+## How this Project started
+
+It all started in August 2021 when I had the first contact with custom mechanical keyboards which I've seen on youtube. I was immediately interested since I've been using membrane since I had a PC - never had a mechanical keyboard. So I wanted to get myself a decent mechanical keyboard: The problem was, I wasn't sure on what to get.
+So I read myself deeper into this Hobby and was especially interested in creating something myself - PCB's. And I did it!
+Started off with reading ai03's PCB guide which is really good and then thought about what would be affordable to make but also nice to use.
+
+Then macropads came in my mind: I've seen some in the past, but they were quite expensive and just not as cool as I would like them to be.
+So I wrote down what features I would like to have: OLED, small form factor, Encoder. After that, it was time to design it.
+
+The Layout of this Macropads actually was the first thing I had in mind and it turned out way better than expected when I got my first PCB's.
+Shortly after I build my first macropad and shared pictures of it, I noticed that there is quite a high demand for it. So I started offering them.
+
+Now we here. 
+
+It's been quite some time where I've gotten much love and appreciation from so many people who like my project.
 
 ## More Infos
 
