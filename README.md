@@ -1,6 +1,6 @@
 # 3x3Macropad: Affordable & Cool!
 
-[[Pictures](pictures.md) | [Getting Started](getting_started.md) | [Table of Contents](#table of contents)]
+[Pictures](pictures.md) | [Getting Started](getting_started.md) | [Table of Contents](#table of contents)
 
 ----
 
