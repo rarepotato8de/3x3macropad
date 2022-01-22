@@ -59,15 +59,18 @@ It all started in August 2021 when I had the first contact with custom mechanica
 So I read myself deeper into this Hobby and was especially interested in creating something myself - PCB's. And I did it!
 Started off with reading ai03's PCB guide which is really good and then thought about what would be affordable to make but also nice to use.
 
-Then macropads came in my mind: I've seen some in the past, but they were quite expensive and just not as cool as I would like them to be.
+Small keyboards (macropads) came in my mind: I've seen some in the past, but they were quite expensive and just not as cool as I would like them to be.
 So I wrote down what features I would like to have: OLED, small form factor, Encoder. After that, it was time to design it.
 
 The Layout of this Macropads actually was the first thing I had in mind and it turned out way better than expected when I got my first PCB's.
+Besides that the case-less design was inspired by the custom keyboard I wanted to have at that time: Discipline65 - which I'm using now.
+Not only does it look industrial and cool, but it also saves costs for a "dedicated" case.
+
 Shortly after I build my first macropad and shared pictures of it, I noticed that there is quite a high demand for it. So I started offering them.
 
 Now we here. 
 
-It's been quite some time where I've gotten much love and appreciation from so many people who like my project.
+In the past weeks I've gotten much love and appreciation from so many people who like my project. Thanks for that! 💜💜💜
 
 ## More Infos
 
