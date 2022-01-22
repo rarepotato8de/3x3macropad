@@ -15,9 +15,9 @@ It not only has a stealthy look, but also features other awesome things:
 * USB Type C
 * **OLED Display**
 
-The coolest part of the macropad is the OLED Display on which you can display images, text and small Animation (See here:)
+The coolest part of the macropad is the OLED Display on which you can display images, text and small animations (See below)
 
-![Alt text](resources/pics/teaser.gif)
+![Alt text](resources/animation-bongocat.gif)
 
 ## I want one!
 
