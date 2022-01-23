@@ -14,8 +14,9 @@ It not only has a stealthy look, but also features other awesome things.
 
 * 6 Mechanical Switches
 * Encoder (Knob)
-* Hotswap Sockets
+* **Hotswap** Sockets
 * **OLED Screen**
+* RGB **Underglow**
 * USB-C Connector
 * Runs with QMK - free programmable.
 * Works with all major OSs, no driver needed.
@@ -37,6 +38,7 @@ If you are interested in getting one yourself, leave me a message on Discord: Ra
 * Bottom plate, PCB, Switch plate (all FR4 Material)
 * 4x 15mm Standoffs
 * 8x 6mm Screws
+* 6x SMD WS2812B LED's
 
 ## Not included
 
@@ -74,7 +76,7 @@ Small keyboards (macropads) came in my mind: I've seen some in the past, but the
 So I wrote down what features I would like to have: OLED, small form factor, Encoder. After that, it was time to design it.
 
 The Layout of this Macropads actually was the first thing I had in mind and it turned out way better than expected when I got my first PCB's.
-Besides that the case-less design was inspired by the custom keyboard I wanted to have at that time: Discipline65 - which I'm using now.
+Besides that, the case-less design was inspired by the custom keyboard I wanted to have at that time: Discipline65 - which I'm using now.
 Not only does it look industrial and cool, but it also saves costs for a "dedicated" case.
 
 Shortly after I build my first macropad and shared pictures of it, I noticed that there is quite a high demand for it. So I started offering them.
