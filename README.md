@@ -91,7 +91,7 @@ In the past weeks I've gotten much love and appreciation from so many people who
 
 [Build Guide](build_guide.md)
 
-[QMK Guide](qmk.md)
+[QMK Guide](qmk_guide.md)
 
 ## Questions?
 
