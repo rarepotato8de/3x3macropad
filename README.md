@@ -4,7 +4,7 @@
 
 ----
 
-This Macropad can be configurated to your needs and runs with QMK which allows you to do anything you want with it!
+Can be fully customized and programmed to your needs! It's running QMK or VIAL.
 
 ![Alt text](resources/title.png)
 
