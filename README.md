@@ -25,11 +25,7 @@ The coolest part of the macropad is the OLED Display on which you can display im
 
 ![Alt text](resources/animation-bongocat.gif)
 
-## I want one!
-
-If you are interested in getting one yourself, leave me a message on Discord: RarePotato8DE#4824 😉
-
-## What's included in the Kit
+## Required parts
 
 * 6x Hotswap Sockets
 * 1x Arduino Pro Micro
@@ -39,12 +35,8 @@ If you are interested in getting one yourself, leave me a message on Discord: Ra
 * 4x 10mm M2 Standoffs
 * 8x ~5mm M2 Screws
 * 6x SMD WS2812B LED's
-
-## Not included
-
 * Mechanical MX Switches
 * Keycaps
-* Soldering Service
 
 ## Showcase
 
@@ -95,4 +87,4 @@ In the past weeks I've gotten much love and appreciation from so many people who
 
 ## Questions?
 
-Please feel free to message me on Discord: RarePotato8DE#4824
+Please feel free to message me
