@@ -1,4 +1,4 @@
-# 3x3Macropad: Affordable & Cool!
+# 3x3macropad: Affordable & Cool!
 
 [Showcase](#showcase) | [Highlight Features](#highlights) | [More Infos](#more-infos) | [How this Project started](#how-this-project-started)
 
