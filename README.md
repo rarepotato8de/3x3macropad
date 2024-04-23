@@ -12,13 +12,13 @@ It not only has a stealthy look, but also features other awesome things.
 
 ## Highlights
 
-* 6 Mechanical Switches
+* 6 (up to 9) Mechanical Switches
 * Encoder (Knob)
 * **Hotswap** Sockets
 * **OLED Screen**
 * RGB **Underglow**
-* USB-C Connector
-* Runs with QMK - free programmable.
+* USB-C Connector (if you choose a USB-C ProMicro!)
+* Runs with QMK (VIAL) - freely programmable.
 * Works with all major OSs, no driver needed.
 
 The coolest part of the macropad is the OLED Display on which you can display images, text and small animations (See below)
@@ -35,15 +35,15 @@ If you are interested in getting one yourself, leave me a message on Discord: Ra
 * 1x Arduino Pro Micro
 * 1x EC11 Encoder (15mm)
 * 1x 0.91" OLED Display
-* Bottom plate, PCB, Switch plate (all FR4 Material)
-* 4x 15mm Standoffs
-* 8x 6mm Screws
+* 1x Bottom plate, 1x PCB, 1x Switch plate
+* 4x 10mm M2 Standoffs
+* 8x ~5mm M2 Screws
 * 6x SMD WS2812B LED's
 
 ## Not included
 
-* Mechanical MX Switches (6x)
-* Keycaps (6x)
+* Mechanical MX Switches
+* Keycaps
 * Soldering Service
 
 ## Showcase
