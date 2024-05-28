@@ -7,7 +7,8 @@
 Can be fully customized and programmed to your needs! It's running QMK or VIAL.
 
 (Slightly older version shown here! The newest version does not have screws in the top switch plate, but on the PCB. Otherwise, it's identical)
-![Alt text](resources/title.png)
+![title](https://github.com/rarepotato8de/3x3macropad/assets/68034180/da4f5fb6-6515-4171-a019-a991a4e767a4)
+
 
 It not only has a stealthy look, but also features other awesome things.
 
@@ -24,7 +25,7 @@ It not only has a stealthy look, but also features other awesome things.
 
 The coolest part of the macropad is the OLED Display on which you can display images, text and small animations
 
-![Alt text](resources/animation-bongocat.gif)
+![animation-bongocat-ezgif com-optimize](https://github.com/rarepotato8de/3x3macropad/assets/68034180/58b4afa2-d9ff-49d2-9c78-63a7cb7962cb)
 
 ## Required parts
 
@@ -43,17 +44,12 @@ The coolest part of the macropad is the OLED Display on which you can display im
 
 Here are a few pictures of the macropad (old versions, for the newest look at the build guide!):
 
-![Alt text](resources/black2.jpg)
-
-![Alt text](resources/black3.jpg)
-
-![Alt text](resources/pad1.png)
-
-![Alt text](resources/pad3.png)
-
-![Alt text](resources/pad7.png)
-
-![Alt text](resources/unknown.png)
+![black2](https://github.com/rarepotato8de/3x3macropad/assets/68034180/95491615-d182-47d3-a2ec-5a4201b3aa5b)
+![black3](https://github.com/rarepotato8de/3x3macropad/assets/68034180/6c748369-6b27-46a9-9484-2a88e36d7b63)
+![pad1](https://github.com/rarepotato8de/3x3macropad/assets/68034180/b0507ba9-4d5a-498c-8694-9251c9386411)
+![pad3](https://github.com/rarepotato8de/3x3macropad/assets/68034180/8874cb06-74b1-46bf-94c5-3b18be9ba0bd)
+![pad7](https://github.com/rarepotato8de/3x3macropad/assets/68034180/33051b26-6d9d-4ff8-b4c3-f2c7b572add0)
+![unknown](https://github.com/rarepotato8de/3x3macropad/assets/68034180/24c8a428-66c0-41d0-ae1e-3cef478e6a90)
 
 ### ... and more!
 
