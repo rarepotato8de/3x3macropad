@@ -43,6 +43,7 @@ The coolest part of the macropad is the OLED Display on which you can display im
 ## Showcase
 
 Newest version:
+
 ![build_pad_done](https://github.com/rarepotato8de/3x3macropad/assets/68034180/fd468290-b30c-4d41-9bf6-99162eed36b8)
 
 More pictures of older versions, which haven't been released (solder for example). 
