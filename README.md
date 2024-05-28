@@ -40,7 +40,7 @@ The coolest part of the macropad is the OLED Display on which you can display im
 
 ## Showcase
 
-Here are a few pictures of the macropad:
+Here are a few pictures of the macropad (old versions, for the newest look at the build guide!):
 
 ![Alt text](resources/black2.jpg)
 
@@ -77,12 +77,12 @@ Now we here.
 
 In the past weeks I've gotten much love and appreciation from so many people who like my project. Thanks for that! 💜💜💜
 
-2024 Update: After quite some time I got more into Git(Hub) and since I always loved and used open-source projects myself, I open-sourced this project!
+**2024 Update:** After quite some time I got more into Git(Hub) and since I always loved and used open-source projects myself, I open-sourced this project!
 You can now order the PCB's and all other stuff yourself. The PCB files (Gebers) can be uploaded to any PCB Manufacturer (e.g. JLCPCB) and be ordered for very cheap.
 
 ## Credits
 
-Thanks to @mondrian for not only getting yourself 5 macropads, but also for creating the awesome pictures for the [Build Guide](BUILD_GUIDE.md) that has been missing for a long time!
+Thanks to @mondrian for not only getting yourself 5 macropads, but also for creating the awesome pictures for the [Build Guide](BUILD_GUIDE.md)! 😎
 
 ## Questions?
 
