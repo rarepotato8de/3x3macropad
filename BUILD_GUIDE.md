@@ -3,7 +3,7 @@
 
 This guide provides a step-by-step explanation on how to solder/build the macropad.
 
-## Step 1: Empty PCB Backside + Soldering the HS Sockets and LED's
+## Step 1: Soldering the HS Sockets and LED's
 Get the PCB ready
 ![build_empty_pcb1](https://github.com/rarepotato8de/3x3macropad/assets/68034180/312e6a1e-a187-48a5-86ec-ed41a7ac7318)
 
