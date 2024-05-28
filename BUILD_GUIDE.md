@@ -4,9 +4,11 @@
 This guide provides a step-by-step explanation on how to solder/build the macropad.
 
 ## Step 1: Empty PCB Backside + Soldering the HS Sockets and LED's
-![Alt text](resources/build_empty_pcb1.jpg)
-Solder all of the Hotswapsockets you need (6 to 9, depending on your wanted layout!) and optionally the LED's
-![Alt text](resources/build_hs_led_2.jpg)
+Get the PCB ready
+![build_empty_pcb1](https://github.com/rarepotato8de/3x3macropad/assets/68034180/312e6a1e-a187-48a5-86ec-ed41a7ac7318)
+
+Solder all of the Hotswap-Sockets you need (6 to 9, depending on your desired layout!) and optionally the LED's (The triangle/marked corner on the LED must align with the "triangle" corner on the PCB! It's diagonal from the "1" Text)
+![build_hs_led_2](https://github.com/rarepotato8de/3x3macropad/assets/68034180/4593bf83-6fb2-4fca-b9a3-4ba3f969654c)
 
 ## Step 2: Shorten the Arduino Pro Micro Header Pins and Solder it
 Split the Header Pins like shown in the picture, since a total of 4 Pins don't have through-holes in the PCB due to the layout
