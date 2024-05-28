@@ -1,6 +1,6 @@
 # 3x3macropad: Affordable & Cool!
 
-[Showcase](#showcase) | [Highlight Features](#highlights) | [How this Project started](#how-this-project-started)
+[Showcase](#showcase) | [Highlight Features](#highlights) | [How this Project started](#how-this-project-started) | [Credits + Build Guide](#credits)
 
 ----
 
@@ -80,12 +80,9 @@ In the past weeks I've gotten much love and appreciation from so many people who
 2024 Update: After quite some time I got more into Git(Hub) and since I always loved and used open-source projects myself, I open-sourced this project!
 You can now order the PCB's and all other stuff yourself. The PCB files (Gebers) can be uploaded to any PCB Manufacturer (e.g. JLCPCB) and be ordered for very cheap.
 
-## More Infos
+## Credits
 
-[Main page](README.md)
-
-[Build Guide](BUILD_GUIDE.md)
-Thanks to @mondrian for not only getting yourself 5 macropads, but also for creating the awesome pictures for the build guide that has been missing for a long time!
+Thanks to @mondrian for not only getting yourself 5 macropads, but also for creating the awesome pictures for the [Build Guide](BUILD_GUIDE.md) that has been missing for a long time!
 
 ## Questions?
 
