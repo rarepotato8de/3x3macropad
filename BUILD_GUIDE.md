@@ -2,6 +2,7 @@
 
 
 This guide provides a step-by-step explanation on how to solder/build the macropad.
+Thanks to @mondrian for taking all of these pictures! He helped me so much with making this guide possible.
 
 ## Step 1: Soldering the HS Sockets and LED's
 Get the PCB ready
