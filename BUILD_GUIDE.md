@@ -47,3 +47,9 @@ After that, place the OLED on the PCB like this and solder the pins from the bot
 
 Now place your EC11 Encoder in the top right and solder all of it's 5 Pins: 2 at the top and 3 at the bottom
 ![build_oled_on_pcb_flat_2](https://github.com/rarepotato8de/3x3macropad/assets/68034180/b49cd2f3-e031-4e88-9757-21124af0f934)
+
+
+# Soldering done!
+
+We are now done with the difficult part: The soldering. This is what it should now look from the bottom.
+![build_pro_micro_soldered_bottom](https://github.com/rarepotato8de/3x3macropad/assets/68034180/344ad9c1-7123-4f0f-9f39-9e32e8bd975a)
