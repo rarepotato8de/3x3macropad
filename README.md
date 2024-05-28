@@ -6,6 +6,7 @@
 
 Can be fully customized and programmed to your needs! It's running QMK or VIAL.
 
+(Slightly older version shown here! The newest version does not have screws in the top switch plate, but on the PCB. Otherwise, it's identical)
 ![Alt text](resources/title.png)
 
 It not only has a stealthy look, but also features other awesome things.
