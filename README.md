@@ -1,6 +1,6 @@
 # 3x3macropad: Affordable & Cool!
 
-[Showcase](#showcase) | [Highlight Features](#highlights) | [More Infos](#more-infos) | [How this Project started](#how-this-project-started)
+[Showcase](#showcase) | [Highlight Features](#highlights) | [How this Project started](#how-this-project-started)
 
 ----
 
@@ -13,13 +13,13 @@ It not only has a stealthy look, but also features other awesome things.
 ## Highlights
 
 * 6 (up to 9) Mechanical Switches
-* Encoder (Knob)
+* EC11 Encoder (Knob)
 * **Hotswap** Sockets
 * **OLED Screen**
 * RGB **Underglow**
 * USB-C Connector (if you choose a USB-C ProMicro!)
-* Runs with QMK (VIAL) - freely programmable.
-* Works with all major OSs, no driver needed.
+* Runs with QMK (VIAL) - freely programmable
+* Works with all major OSs, no driver needed
 
 The coolest part of the macropad is the OLED Display on which you can display images, text and small animations (See below)
 
@@ -27,16 +27,16 @@ The coolest part of the macropad is the OLED Display on which you can display im
 
 ## Required parts
 
-* 6x Hotswap Sockets
+* 6x to 9x Hotswap Sockets
 * 1x Arduino Pro Micro
-* 1x EC11 Encoder (15mm)
-* 1x 0.91" OLED Display
 * 1x Bottom plate, 1x PCB, 1x Switch plate
 * 4x 10mm M2 Standoffs
 * 8x ~5mm M2 Screws
-* 6x SMD WS2812B LED's
 * Mechanical MX Switches
 * Keycaps
+* optional: 6x SMD WS2812B LED's
+* optional: 1x EC11 Encoder (15mm)
+* optional: 1x 0.91" OLED Display
 
 ## Showcase
 
@@ -77,13 +77,15 @@ Now we here.
 
 In the past weeks I've gotten much love and appreciation from so many people who like my project. Thanks for that! 💜💜💜
 
+2024 Update: After quite some time I got more into Git(Hub) and since I always loved and used open-source projects myself, I open-sourced this project!
+You can now order the PCB's and all other stuff yourself. The PCB files (Gebers) can be uploaded to any PCB Manufacturer (e.g. JLCPCB) and be ordered for very cheap.
+
 ## More Infos
 
 [Main page](README.md)
 
-[Build Guide](build_guide.md)
-
-[QMK Guide](qmk_guide.md)
+[Build Guide](BUILD_GUIDE.md)
+Thanks to @mondrian for not only getting yourself 5 macropads, but also for creating the awesome pictures for the build guide that has been missing for a long time!
 
 ## Questions?
 
