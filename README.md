@@ -1,6 +1,6 @@
 # 3x3macropad: Affordable & Cool!
 
-[Showcase](#showcase) | [Highlight Features](#highlights) | [How this Project started](#how-this-project-started) | [Credits + Build Guide](#credits)
+[Showcase](#showcase) | [Highlight Features](#highlights) | [How this Project started](#how-this-project-started) | [Credits + Build Guide](#credits) | [QMK/VIAL Guide](QMK_GUIDE.md)
 
 ----
 
