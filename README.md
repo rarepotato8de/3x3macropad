@@ -42,13 +42,6 @@ The coolest part of the macropad is the OLED Display on which you can display im
 
 ## Showcase
 
-Newest version:
-
-![build_pad_done](https://github.com/rarepotato8de/3x3macropad/assets/68034180/fd468290-b30c-4d41-9bf6-99162eed36b8)
-
-More pictures of older versions, which haven't been released (solder for example). 
-From the looks, this released version is basically identical, just without having the screws in the switch plate (they are now on the PCB)
-
 ![black2](https://github.com/rarepotato8de/3x3macropad/assets/68034180/95491615-d182-47d3-a2ec-5a4201b3aa5b)
 ![black3](https://github.com/rarepotato8de/3x3macropad/assets/68034180/6c748369-6b27-46a9-9484-2a88e36d7b63)
 ![pad1](https://github.com/rarepotato8de/3x3macropad/assets/68034180/b0507ba9-4d5a-498c-8694-9251c9386411)
