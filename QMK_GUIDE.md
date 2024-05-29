@@ -14,9 +14,8 @@ This guide provides a step-by-step explanation on how to set up QMK or VIAL, and
 ## Preparation
 
 Before you begin, make sure you have the following tools installed:
-- [QMK Toolbox](https://github.com/qmk/qmk_toolbox/releases) - for flashing the firmwre
-- [Python](https://www.python.org/downloads/) - for running QMK MSYS
-
+- [QMK MSYS](https://msys.qmk.fm/) - for compiling the firmware
+- [QMK Toolbox](https://github.com/qmk/qmk_toolbox/releases) - for flashing the firmwre 
 
 ## Compiling the Firmware
 
@@ -77,5 +76,4 @@ Success! 🎉🤩 You can now use your macropad how you want. Have fun!
 
 - [QMK Documentation](https://docs.qmk.fm/)
 - [VIAL Documentation](https://get.vial.today/docs/)
-- [QMK Toolbox](https://github.com/qmk/qmk_toolbox)
 - [Convert pictures for the OLED Screen](https://docs.splitkb.com/hc/en-us/articles/360013811280-How-do-I-convert-an-image-for-use-on-an-OLED-display)
