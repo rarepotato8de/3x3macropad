@@ -52,19 +52,27 @@ After that, place the OLED on the PCB like this and solder the pins from the bot
 # Soldering done!
 
 We are now done with the difficult part: The soldering. This is what it should now look from the bottom.
-![build_pro_micro_soldered_bottom](https://github.com/rarepotato8de/3x3macropad/assets/68034180/344ad9c1-7123-4f0f-9f39-9e32e8bd975a)
-
+![image](https://github.com/rarepotato8de/3x3macropad/assets/68034180/7785b3c5-3549-4f51-a5e7-a5cad97743db)
 
 # Step 4: Assembling the Macropad
 
-4.1 Now we need to screw the 4 standoffs to our pcb, turn it around and then screw the bottom plate on.
-4.2. Insert your Switches into the Plate (Note: The Switch at matrix [0, 1] and [1, 1] needs to be north facing unlike all others. Just look at the Hotswap-Sockets on your PCB)
-4.3 Last but not least place the Plate with the Switches on top of your PCB
+4.1 Screw the 4 Standoffs to the bottom plate
+![image](https://github.com/rarepotato8de/3x3macropad/assets/68034180/5bd23acb-6c5d-4e92-91d0-183371803163)
+
+4.2 Place the PCB on the 4 Standoffs and screw it tight
+![image](https://github.com/rarepotato8de/3x3macropad/assets/68034180/3b092929-6f55-47d9-80f8-033a6042d723)
+
+4.2. Insert your Switches into the Plate (Note: The Switch at matrix [0, 1] and [1, 1] are north facing unlike all others!) and place it on the PCB
+![image](https://github.com/rarepotato8de/3x3macropad/assets/68034180/67cc89c9-a956-4626-81f3-7341d1986a82)
+
+4.3 Put the EC11 Encoder Knob and you Keycaps on
+IMAGE TODO
 
 
 # Done
 Congratulations! 🎉 👏🏻 
 You've build your very own 3x3macropad.
+IMAGE TODO
 
 
 # Step 5: Flashing the Firmware 
