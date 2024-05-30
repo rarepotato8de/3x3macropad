@@ -4,13 +4,8 @@
 
 ----
 
-Can be fully customized and programmed to your needs! It's running QMK or VIAL.
-
-(Slightly older version shown here! The newest version does not have screws in the top switch plate, but on the PCB. Otherwise, it's identical)
+Can be fully customized and programmed to your needs. It's running QMK or VIAL and has some super cool features!
 ![title](https://github.com/rarepotato8de/3x3macropad/assets/68034180/da4f5fb6-6515-4171-a019-a991a4e767a4)
-
-
-It not only has a stealthy look, but also features other awesome things.
 
 ## Highlights
 
@@ -23,7 +18,9 @@ It not only has a stealthy look, but also features other awesome things.
 * Runs with QMK (VIAL) - freely programmable
 * Works with all major OSs, no driver needed
 
-The coolest part of the macropad is the OLED Display on which you can display images, text and small animations
+The coolest part of the macropad is the OLED Display on which you can display images, text and small animations<br/>
+> [!NOTE]  
+> This is an older version, where the screws are on the switch plate. It's only for showcasing the OLED animation
 
 ![animation-bongocat-ezgif com-optimize](https://github.com/rarepotato8de/3x3macropad/assets/68034180/58b4afa2-d9ff-49d2-9c78-63a7cb7962cb)
 
@@ -42,6 +39,11 @@ The coolest part of the macropad is the OLED Display on which you can display im
 
 ## Showcase
 
+> [!NOTE]  
+> The newest version of the macropad that is on this GitHub has the screws in the PCB, not the top most switch plate. That means, that some of these pictures show older versions.
+Feature wise: They're the same.<br/> The newest version was just optimized for cleaner looks and better mounting for hotswap (previous versions where solder)
+
+![build_done_on](https://github.com/rarepotato8de/3x3macropad/assets/68034180/67571160-8e86-4cea-a7ff-6fd6db5d0ac7)
 ![black2](https://github.com/rarepotato8de/3x3macropad/assets/68034180/95491615-d182-47d3-a2ec-5a4201b3aa5b)
 ![black3](https://github.com/rarepotato8de/3x3macropad/assets/68034180/6c748369-6b27-46a9-9484-2a88e36d7b63)
 ![pad1](https://github.com/rarepotato8de/3x3macropad/assets/68034180/b0507ba9-4d5a-498c-8694-9251c9386411)
