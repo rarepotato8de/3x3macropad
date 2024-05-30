@@ -16,7 +16,7 @@ Thanks to @mondrian for taking all of these pictures! He helped me so much with 
 2.1 Split the Header Pins like shown in the picture, since a total of 4 Pins don't have through-holes in the PCB due to the layout
 ![build_promicro_pins_3](https://github.com/rarepotato8de/3x3macropad/assets/68034180/b22e9346-6962-411d-81f1-9f13c02ee0e7)
 
-2.2 Insert the Header Pins like this in the PCB (for ease: Put the PCB on a table and stick the long side of the Pin Header just a bit more through it)
+2.2 Insert the Header Pins like this in the PCB
 ![build_pins_pcb](https://github.com/rarepotato8de/3x3macropad/assets/68034180/8995bc9a-a2fb-4af4-ace2-50da6c54951c)
 
 2.3 Place the Pro Micro on it (USB-Port facing towards the PCB!) and solder it's pins
@@ -41,8 +41,10 @@ Thanks to @mondrian for taking all of these pictures! He helped me so much with 
 We just want to have a little more space "above" the OLED, so the Switch Plate later fits above it.
 ![build_shorten_oled_pins](https://github.com/rarepotato8de/3x3macropad/assets/68034180/22193c83-13b0-4722-a089-bc4f82d213cb)
 
-3.5 **Attention:** Before proceeding to do the next step, get yourself some tape and stick it on the bottom of the oled. It's meant to prevent shorting the OLED with our PCB.
-After that, place the OLED on the PCB like this and solder the pins from the bottom side. Make sure to hold the OLED relatively "even", so it looks good at the end
+> [!TIP]
+> Before proceeding to do the next step, get yourself some tape and stick it on the bottom of the oled. It's meant to prevent possibly shorting the OLED with our PCB.
+
+3.5 Place the OLED on the PCB like this and solder the pins from the bottom side. Make sure to hold the OLED relatively "even", so it looks good at the end
 ![build_oled_on_pcb_flat](https://github.com/rarepotato8de/3x3macropad/assets/68034180/15ed7c01-acca-4b96-81e1-4af837b67f31)
 
 3.6 Now place your EC11 Encoder in the top right and solder all of it's 5 Pins: 2 at the top and 3 at the bottom
