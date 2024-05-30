@@ -62,7 +62,7 @@ We are now done with the difficult part: The soldering. This is what it should n
 4.2 Place the PCB on the 4 Standoffs and screw it tight
 ![image](https://github.com/rarepotato8de/3x3macropad/assets/68034180/3b092929-6f55-47d9-80f8-033a6042d723)
 
-4.2. Insert your Switches into the Plate (Note: The Switch at matrix [0, 1] and [1, 1] are north facing unlike all others!) and place it on the PCB
+4.2 Insert your Switches into the Plate (Note: The Switch at matrix [0, 1] and [1, 1] are north facing unlike all others!) and place it on the PCB
 ![image](https://github.com/rarepotato8de/3x3macropad/assets/68034180/67cc89c9-a956-4626-81f3-7341d1986a82)
 
 4.3 Put the EC11 Encoder Knob and you Keycaps on
