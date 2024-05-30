@@ -66,13 +66,13 @@ We are now done with the difficult part: The soldering. This is what it should n
 ![image](https://github.com/rarepotato8de/3x3macropad/assets/68034180/67cc89c9-a956-4626-81f3-7341d1986a82)
 
 4.3 Put the EC11 Encoder Knob and you Keycaps on
-IMAGE TODO
+![build_done_off](https://github.com/rarepotato8de/3x3macropad/assets/68034180/bc069448-4a5c-4f62-824b-d274b31f6283)
 
 
 # Done
 Congratulations! 🎉 👏🏻 
 You've build your very own 3x3macropad.
-IMAGE TODO
+![build_done_on](https://github.com/rarepotato8de/3x3macropad/assets/68034180/3c4cf7c0-0c84-4d35-8628-012759ef27a1)
 
 
 # Step 5: Flashing the Firmware 
