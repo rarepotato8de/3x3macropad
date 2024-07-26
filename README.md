@@ -44,12 +44,12 @@ The coolest part of the macropad is the OLED Display on which you can display im
 Feature wise: They're the same.<br/> The newest version was just optimized for cleaner looks and better mounting for hotswap (previous versions where solder)
 
 ![build_done_on](https://github.com/rarepotato8de/3x3macropad/assets/68034180/67571160-8e86-4cea-a7ff-6fd6db5d0ac7)
+![doggo](https://github.com/user-attachments/assets/eccd5cc9-62ec-47c7-8ad7-9bcc92a547d5)
 ![black2](https://github.com/rarepotato8de/3x3macropad/assets/68034180/95491615-d182-47d3-a2ec-5a4201b3aa5b)
 ![black3](https://github.com/rarepotato8de/3x3macropad/assets/68034180/6c748369-6b27-46a9-9484-2a88e36d7b63)
 ![pad1](https://github.com/rarepotato8de/3x3macropad/assets/68034180/b0507ba9-4d5a-498c-8694-9251c9386411)
 ![pad3](https://github.com/rarepotato8de/3x3macropad/assets/68034180/8874cb06-74b1-46bf-94c5-3b18be9ba0bd)
 ![pad7](https://github.com/rarepotato8de/3x3macropad/assets/68034180/33051b26-6d9d-4ff8-b4c3-f2c7b572add0)
-![unknown](https://github.com/rarepotato8de/3x3macropad/assets/68034180/24c8a428-66c0-41d0-ae1e-3cef478e6a90)
 
 ### ... and more!
 
